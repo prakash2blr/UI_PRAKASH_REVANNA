@@ -1,9 +1,9 @@
 # UI_TRACK
 
-##AUTHOR 
+## AUTHOR 
 PRAKASH REVANNA
 
-###Responsive product page
+### Responsive product page
 ### Libraries Used
 
 1) Jquery
@@ -13,4 +13,4 @@ PRAKASH REVANNA
 5) AR.js
 
 
-###AR js gives when scanning hiro marker from mobile
+### AR js gives when scanning hiro marker from mobile
