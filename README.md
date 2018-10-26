@@ -13,4 +13,4 @@ PRAKASH REVANNA
 5) AR.js
 
 
-### AR js gives when scanning hiro marker from mobile
+### AR js gives error when scanning hiro marker from mobile
